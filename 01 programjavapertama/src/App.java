@@ -9,15 +9,15 @@ public class App {
     Float berat_badan;
     Float tinggi_badan;
 
-     // mengisi variable
-    nama = "sandi"; 
-    nim = "23241070";
-    tgl_lahir = "11_novembe_2003";
-    alamat = "ruteng";
-    berat_badan = 50.0f;
+         // mengisi variable
+    nama = "ilham parhadi"; 
+    nim = "23241050";
+    tgl_lahir = "19_januari_2005";
+    alamat = "Gegurun";
+    berat_badan = 35.0f;
     tinggi_badan = 160.0f; 
 
-    // cetak biodata
+       // cetak biodata
     System.out.println("=============================================");
     System.out.println("nama" + nama );
     System.out.println("NIM"+ nim);
